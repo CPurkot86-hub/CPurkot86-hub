@@ -11,8 +11,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Purkot-Js" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Purkot-Cypress" height="30" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqNopirvD3HU4gqvBKYcHQTEI7bao4VR8ximm_0vGGJYNTPuoZYVmDPqphFmxQh9FWhc&usqp=CAU" />
+  <img align="center" alt="Purkot-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Purkot-Cypress" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqNopirvD3HU4gqvBKYcHQTEI7bao4VR8ximm_0vGGJYNTPuoZYVmDPqphFmxQh9FWhc&usqp=CAU" />
   <img align="center" alt="Purkot-Postman" height="30" width="40" src="https://koraypeker.com/wp-content/uploads/2020/04/postman.jpg" />
   <img align="center" alt="Purkot-JMeter" height="30" width="40" src="https://blog.onesaitplatform.com/wp-content/uploads/2022/06/header_jmeter.jpg" />
   <img align="center" alt="Purkot-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
