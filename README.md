@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Cleverson Purkot, Analista de Qualidade de Software!
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando em automações com Cypress.
+- 🔭 Atualmente estou trabalhando em automações com Cypress e Playwright.
 - 👯 Estou procurando colaborar em assuntos relacionados a automações e Testes de Software,
 
 <div align="center">
